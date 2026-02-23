@@ -51,6 +51,27 @@
 
 ### Русские чаты
 
+Чаты можно найти тут: [need.travel — чаты русскоговорящих](https://need.travel/блог/чаты-русскоговорящих/) и [Russian chats list на GitHub](https://github.com/pcherednichenko/russian-chats-list).
+
+#### Инструкция по поиску чатов
+
+**1. Поиск в Telegram (RU + EN)**
+
+Английские запросы находят международные сообщества, где меньше «налога на туриста» и больше опытных резидентов.
+
+- База: [City] Expats / [City] Nomads (Lisbon Expats, Bali Nomads).
+- Жилье: [City] Rent / [City] Housing.
+- Работа/Профи: [City] Jobs / [City] Networking / [City] IT.
+- Общее: [City] Community / [City] Foreigners.
+
+**2. Технические приемы**
+
+- **Google-хак:** Вбейте в поиск `site:t.me "City Name chat"` — это находит закрытые группы, скрытые в поиске самого Telegram.
+- **Прямые адреса:** Пробуйте вводить в поиске @названиегорода (например, @tbilisi или @dubai).
+- **Facebook:** Группы Expats in [City] — ссылки на «ламповые» чаты часто в закрепах.
+- **Reddit:** Сабреддиты r/[City] или r/expats.
+
+
 ### Экспатские комьюнити (бег, пиво, номады...)
 
 ## Каучсерфинг
