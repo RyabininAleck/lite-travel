@@ -1,0 +1,20 @@
+# JetBrains (GoLand, IntelliJ IDEA, WebStorm, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code / Cursor
+.vscode/
+*.code-workspace
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Fleet
+.fleet/
+
+# NetBeans
+nbproject/private/
