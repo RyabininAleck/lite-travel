@@ -196,11 +196,11 @@
 
 ## Походы
 
-[easy-pohod](https://github.com/fenestron/easy-pohod) — подробная инструкция для планирования походов.
-[predpohod](https://predpohod.ru/) — приложение для организации похода и группы.
-[Sentinel Hub](https://www.sentinel-hub.com/) — доступ к свежим спутниковым снимкам.
-[Locus Map](https://www.locusmap.app/) — топографические карты (приложение).
-[Маршруты.ру](https://marshruty.ru/) — классификатор перевалов и база отчётов.
+- [easy-pohod](https://github.com/fenestron/easy-pohod) — подробная инструкция для планирования походов.
+- [predpohod](https://predpohod.ru/) — приложение для организации похода и группы.
+- [Sentinel Hub](https://www.sentinel-hub.com/) — доступ к свежим спутниковым снимкам.
+- [Locus Map](https://www.locusmap.app/) — топографические карты (приложение).
+- [Маршруты.ру](https://marshruty.ru/) — классификатор перевалов и база отчётов.
 
 
 ## Выбор города для жизни
